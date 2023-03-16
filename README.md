@@ -237,8 +237,8 @@
 
 ### Submission
 
-- Commit your workshop materials (slide deck, problem set, systems design exercise, and report) to a GitHub repository.
-- Submit the GitHub repository link via Canvas.
+- Build your workshop materials (slide deck, problem set, systems design exercise, and report) in Google Slides, Keynote or PowerPoint.
+- Submit zip file via Canvas with all slide deck.
 
 **Evaluation Criteria:**
 
