@@ -1,6 +1,6 @@
 # SE Onboarding Evaluations
 
-# Module 1: Introduction to Teach the MERN Stack and Software Engineering
+# Module 1: Introduction to Teaching the MERN Stack and Software Engineering
 
 ## Learning Objectives
 
